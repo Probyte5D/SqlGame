@@ -4,7 +4,14 @@ Welcome to the Gioco dell'Oca project! This digital version of the classic Itali
 📸 Screenshots
 Database Structure	Game Flow	Example Log
 
-| ![Logs](Images/logs.png) | ![Game](Images/GiocoSQL.png) | 
+## 📸 Screenshots
+
+### 🎮 Game Flow
+![Game Flow](images/GiocoSql.png)
+
+### 📋 Logs
+![Logs](images/logs.png)
+
 
 🧾 Description
 This project is an implementation of the Gioco dell'Oca (Goose Game), an interactive digital version where players roll the dice, move across squares, and encounter different game events. The game is managed via a MySQL database and stored procedures, and each player's actions are logged for review.
